@@ -1,4 +1,4 @@
-# Trillo
+# Nexter
 A landing page built as part of the Udemy course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) 
 
 ## Tools used
